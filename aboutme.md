@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know a data enthusiast better.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mohsen Memaran. Previous System Engineer and eager to Data and Product Management. I will tell you more about myself.   
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am graduated.  
+- I am fast learner and adaptive. 
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started my new journey from **Polito** [Here](https://en.wikipedia.org/wiki/Polytechnic_University_of_Turin).
