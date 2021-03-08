@@ -13,7 +13,7 @@ Digitization is associated with cost-cutting and operational excellence. It is i
 Becoming digital is focusing on the customer-centric value proposition. It integrates digital technologies to deliver enhanced products, services, and customer engagement (digital offering). It requires creating a digital platform.
 
 Here is a simple comparison
-![Digiti/a](assets/img/Digitize & Digital.jpeg)
+![Digiti/a](https://github.com/M-Memaran/home/blob/master/assets/img/Digitize-Digital.jpeg)
 
 To know more, you can read these two research briefs from the MIT Center for Information Systems Research.
 
