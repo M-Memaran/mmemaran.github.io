@@ -12,15 +12,15 @@ Digitization is associated with cost-cutting and operational excellence. It is i
 
 Becoming digital is focusing on the customer-centric value proposition. It integrates digital technologies to deliver enhanced products, services, and customer engagement (digital offering). It requires creating a digital platform.
 
-Here is a simple comparison 
-/assets/img/Digitize & Digital.jpg
+Here is a simple comparison
+![Crepe](/assets/img/Digitize & Digital.jpg)
 
 To know more, you can read these two research briefs from the MIT Center for Information Systems Research.
 
 DIGITIZED ≠ DIGITAL
-[https://cisr.mit.edu/publication/2017_1001_DigitizedNotDigital_RossBeathSebastian]
+(https://cisr.mit.edu/publication/2017_1001_DigitizedNotDigital_RossBeathSebastian)
 
 
 DIGITAL SUCCESS REQUIRES BREAKING OLD RULES
-[https://cisr.mit.edu/publication/2019_1001_BreakingRules_RossBeathMocker]
+(https://cisr.mit.edu/publication/2019_1001_BreakingRules_RossBeathMocker)
 
