@@ -14,7 +14,7 @@ Becoming digital is focusing on the customer-centric value proposition. It integ
 
 Here is a simple comparison
 
-![Digiti/a](https://github.com/M-Memaran/home/blob/master/assets/img/Digitize-Digital.jpeg)
+![Digiti/a](https://media-exp1.licdn.com/dms/image/C4E22AQEVu76QKxWixw/feedshare-shrink_800/0/1614606664159?e=1617840000&v=beta&t=43pDZhlP6ygC414k_CnIjWp1CbNTzOtku41zhIiXU5s)
 
 To know more, you can read these two research briefs from the MIT Center for Information Systems Research.
 
