@@ -18,8 +18,7 @@ Here is a simple comparison
 
 To know more, you can read these two research briefs from the MIT Center for Information Systems Research.
 
-[**DIGITIZED ≠ DIGITAL**](https://cisr.mit.edu/publication/2017_1001_DigitizedNotDigital_RossBeathSebastian)
+[**Digitized ≠ Digital**](https://cisr.mit.edu/publication/2017_1001_DigitizedNotDigital_RossBeathSebastian)
 
-
-[**DIGITAL SUCCESS REQUIRES BREAKING OLD RULES**](https://cisr.mit.edu/publication/2019_1001_BreakingRules_RossBeathMocker)
+[**Digital Success Requires Breaking Old Rules**](https://cisr.mit.edu/publication/2019_1001_BreakingRules_RossBeathMocker)
 
