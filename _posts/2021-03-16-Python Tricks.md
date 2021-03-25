@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python Tricks: The Book (A Buffet of Awesome Python Features) 
-subtitle:  
+title: Python - Tricks The Book (A Buffet of Awesome Python Features)
+subtitle: 
 cover-img: 
-thumbnail-img: /assets/img/Digital-transformation.jpg
-share-img: /assets/img/Digital-transformation.jpg
+thumbnail-img: /assets/img/pytricks-book.jpg
+share-img: /assets/img/pytricks-book.jpg
 tags: [Python, Tricks, Book]
 ---
 
