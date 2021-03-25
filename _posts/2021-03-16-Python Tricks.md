@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Python Tricks: The Book (A Buffet of Awesome Python Features)
+title: Digitization is different from Digitalization 
 subtitle: 
-cover-img: 
-thumbnail-img: /assets/img/pytricks-book.jpg
-share-img: /assets/img/pytricks-book.jpg
-tags: [Python, Tricks, Book]
+cover-img: /assets/img/digital-world.jpg
+thumbnail-img: /assets/img/Digital-transformation.jpg
+share-img: /assets/img/Digital-transformation.jpg
+tags: [Article, Digitization, Digitalization]
 ---
 
 **_Simple_** and **_enough_** explanation for what you need to do in Python. 
